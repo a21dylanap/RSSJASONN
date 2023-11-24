@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programación",
+    "home_page_url": "https://a21dylanap.github.io/RSSJASONN/",
+    "feed_url": "https://a21dylanap.github.io/RSSJASONN/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "LA PYTHONA",
+    "url": "https://a21dylanap.github.io/RSSJASONN/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, world!</p>",
+    "url": "https://a21dylanap.github.io/RSSJASONN/java.html"
+    }
+    ]
+   }
+   
